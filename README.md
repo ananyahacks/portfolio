@@ -34,28 +34,6 @@ portfolio/
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository
-
-```
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Navigate into the project folder
-
-```
-cd your-repository-name
-```
-
-3. Open the project
-
-Simply open **index.html** in your browser.
-
----
-
 ## 💡 Purpose of This Project
 
 This portfolio was created to:
@@ -70,8 +48,8 @@ This portfolio was created to:
 
 If you would like to connect or collaborate, feel free to reach out.
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (add your LinkedIn profile here)
+* [GitHub](https://github.com/ananyahacks/)
+* [LinkedIn](https://www.linkedin.com/in/ananya-chakraborty-579a2a209/)
 
 ---
 
